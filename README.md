@@ -89,6 +89,8 @@ Der Autor übernimmt **keine Verantwortung** für eventuellen Missbrauch.
 
 **Jose Luis Ocana** 
 
+Cybersecurity Learner | Python & C++ Tools 
+
 (GitHub: [0xZorro](https://github.com/0xZorro))  
 
 Kontakt: zorro.Jose@gmx.de  
