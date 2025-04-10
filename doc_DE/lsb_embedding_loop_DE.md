@@ -6,7 +6,7 @@ Im Fokus steht eine Schleife, die gezielt das niederwertigste Bit (LSB) jedes By
 
 ---
 
-## 🧩 Code-Segment
+## Code-Segment
 
 ```cpp
 while (inFile.get(pixel)) {
