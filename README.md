@@ -71,9 +71,40 @@ zSteganizer extract -i ausgabe.bmp -o result.txt
 
 ---
 
+## Zukünftige Erweiterungen (Ideen)
+
+- Unterstützung weiterer Bildformate (z. B. PNG mit Bibliotheken)
+- Verschlüsselung der Nachricht vor Einbettung
+- Grafische Benutzeroberfläche (GUI) für Drag-and-Drop
+- Prüfung, ob die Nachricht in das Bild passt **vor** dem Schreiben
+- Logging und Fortschrittsanzeige
+
+---
+
 ## Lizenz
 
 Dieses Projekt steht unter der MIT-Lizenz – siehe [LICENSE](LICENSE)-Datei für Details.
+
+---
+
+## Autor
+
+**Created by Jose Luis Ocana**
+
+Cybersecurity Learner | Python & C++ Tools
+
+(GitHub: [0xZorro](https://github.com/0xZorro))  
+
+TryHackMe: https://tryhackme.com/p/0xZorro
+
+Contact: zorro.jose@gmx.de
+
+---
+
+## Beiträge
+
+Du möchtest mithelfen? Super! Forke das Projekt, nimm Änderungen vor und stelle einen Pull Request.  
+Achte bitte darauf, den Verhaltenskodex und die Projektstandards einzuhalten.
 
 ---
 
@@ -85,21 +116,8 @@ Der Autor übernimmt **keine Verantwortung** für eventuellen Missbrauch.
 
 ---
 
-## Autor
+## Haftungsausschluss
 
-**Jose Luis Ocana** 
+Der Autor übernimmt **keinerlei Verantwortung oder Haftung** für Schäden, Missbrauch oder rechtliche Konsequenzen, die aus der Nutzung dieses Programms entstehen.
 
-Cybersecurity Learner | Python & C++ Tools 
-
-(GitHub: [0xZorro](https://github.com/0xZorro))  
-
-Kontakt: zorro.Jose@gmx.de  
-
-Projekt: *zSteganizer – Steganografie für C++-Einsteiger*
-
----
-
-## Mitwirken
-
-Verbesserungsideen, Vorschläge oder Pull Requests sind willkommen!  
-Forke das Projekt gerne und hilf mit, es weiterzuentwickeln.
+Die Verwendung erfolgt **auf eigene Verantwortung**.
