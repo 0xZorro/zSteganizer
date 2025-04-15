@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner.png" alt="zSteganizer" width="300"/>
+</p>
+
 # zSteganizer
 
 **zSteganizer** ist ein C++-Tool zur Einbettung und Extraktion geheimer Textnachrichten in BMP-Bildern.  
@@ -121,3 +125,9 @@ Der Autor übernimmt **keine Verantwortung** für eventuellen Missbrauch.
 Der Autor übernimmt **keinerlei Verantwortung oder Haftung** für Schäden, Missbrauch oder rechtliche Konsequenzen, die aus der Nutzung dieses Programms entstehen.
 
 Die Verwendung erfolgt **auf eigene Verantwortung**.
+
+---
+
+<p align="right">
+  <img src="brand.png" alt="by 0xZorro" width="120"/>
+</p>
