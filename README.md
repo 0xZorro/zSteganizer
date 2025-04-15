@@ -128,6 +128,6 @@ Die Verwendung erfolgt **auf eigene Verantwortung**.
 
 ---
 
-<p align="right">
+<p align="center">
   <img src="brand.png" alt="by 0xZorro" width="120"/>
 </p>
