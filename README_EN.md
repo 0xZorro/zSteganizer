@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner.png" alt="zSteganizer" width="300"/>
+</p>
+
 # zSteganizer
 
 **zSteganizer** is a C++ tool for embedding and extracting hidden text messages inside BMP image files.  
