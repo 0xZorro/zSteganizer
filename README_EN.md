@@ -109,6 +109,10 @@ Project: *zSteganizer – Steganography for C++ Learners*
 Suggestions, ideas, or pull requests are welcome!  
 Feel free to fork the project and help improve it.
 
+---
+
 <p align="center">
   <img src="brand.png" alt="by 0xZorro" width="120"/>
 </p>
+
+---
