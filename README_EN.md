@@ -2,6 +2,10 @@
   <img src="Banner.png" alt="zSteganizer" width="300"/>
 </p>
 
+<p align="right">
+  <a href="./README.md">Zur deutschen Version wechseln</a>
+</p>
+
 # zSteganizer
 
 **zSteganizer** is a C++ tool for embedding and extracting hidden text messages inside BMP image files.  
@@ -71,6 +75,15 @@ zSteganizer extract -i output.bmp -o result.txt
 
 - `-i`: BMP file with a hidden message
 - `-o`: Output file for extracted text
+
+
+### Documentation
+
+- [Read the detailed documentation (Least Significant Bit)](./doc_EN/bmp_lsb_doc_EN.md)
+- [Read the detailed documentation (Data extraction)](./doc_EN/extract_message_EN.md)
+- [Read the detailed documentation (Loop for embedding data)](./doc_EN/lsb_embedding_loop_EN.md)
+- [Read the detailed documentation (Convert to binary string)](./doc_EN/to_binary_string_EN.md)
+
 
 ---
 
