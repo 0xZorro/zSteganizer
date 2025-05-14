@@ -77,6 +77,15 @@ zSteganizer extract -i ausgabe.bmp -o result.txt
 - `-i` : Bild mit versteckter Nachricht
 - `-o` : Zieltextdatei für die extrahierte Nachricht
 
+
+### Dokumentation
+
+- [Deutsche Dokumentation ansehen (Least Significant Bit) ](./doc_DE/bmp_lsb_doc_DE.md)
+- [Deutsche Dokumentation ansehen (Daten extrahieren) ](./doc_DE/extract_message_DE.md)
+- [Deutsche Dokumentation ansehen (Schleife zum Einbetten von Daten) ](./doc_DE/lsb_embedding_loop_DE.md)
+- [Deutsche Dokumentation ansehen (in Binärzeichenkette umwandeln) ](./doc_DE/to_binary_string_DE.md)
+
+
 ---
 
 ## Zukünftige Erweiterungen (Ideen)
